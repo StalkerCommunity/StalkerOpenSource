@@ -7,7 +7,7 @@
  - Разработка
 
 На данный момент обсуждение на GitHub происходит вот тут: 
-https://github.com/StalkerOpenSource/StalkerOpenSource/issues/1
+https://github.com/StalkerOpenSource/StalkerOpenSource/issues/1/
 
 Wiki со всеми статьями (концепция, сюжет и т.д.) находится вот тут:
 https://github.com/StalkerCommunity/StalkerOpenSource/wiki/
