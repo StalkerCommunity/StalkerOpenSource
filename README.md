@@ -6,4 +6,5 @@
  - Проработка деталей и составление ТЗ
  - Разработка
 
-На данный момент обсуждение на GitHub происходит вот тут: https://github.com/StalkerOpenSource/StalkerOpenSource/issues/1
+На данный момент обсуждение на GitHub происходит вот тут: 
+https://github.com/StalkerOpenSource/StalkerOpenSource/issues/1
